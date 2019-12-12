@@ -10,3 +10,4 @@ Cara mengclone data
 8. "php artisan db:seed --class=UsersLoginSeeder"
 9. Login siswa [ username => siswa , password => 121212 ]
 10. Login siswa [ username => guru , password => 121212 ]
+11. menjalan program " php -S localhost:8000 -t public/ "
